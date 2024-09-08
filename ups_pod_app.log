@@ -1,0 +1,21 @@
+2024-09-08 11:07:20,603 - UPS_POD_App - ERROR - Failed to authenticate with UPS API: 404 Client Error: Not Found for url: https://wwwcie.ups.com/api/security/v1/oauth/token
+2024-09-08 11:07:20,604 - UPS_POD_App - ERROR - Error retrieving POD: 404 Client Error: Not Found for url: https://wwwcie.ups.com/api/security/v1/oauth/token
+2024-09-08 11:09:02,397 - UPS_POD_App - ERROR - Failed to authenticate with UPS API: 404 Client Error: Not Found for url: https://wwwcie.ups.com/api/security/v1/oauth/token
+2024-09-08 11:09:02,397 - UPS_POD_App - ERROR - Error retrieving POD: 404 Client Error: Not Found for url: https://wwwcie.ups.com/api/security/v1/oauth/token
+2024-09-08 11:10:04,408 - UPS_POD_App - ERROR - Failed to authenticate with UPS API: 404 Client Error: Not Found for url: https://wwwcie.ups.com/api/security/v1/oauth/token
+2024-09-08 11:13:19,863 - UPS_POD_App - INFO - Successfully authenticated with UPS API
+2024-09-08 11:13:52,547 - UPS_POD_App - INFO - Successfully authenticated with UPS API
+2024-09-08 11:14:53,049 - UPS_POD_App - INFO - Successfully authenticated with UPS API
+2024-09-08 11:14:53,265 - UPS_POD_App - ERROR - Failed to retrieve POD data: 401 Client Error: Unauthorized for url: https://wwwcie.ups.com/track/v1/details/1ZA5558W0447889651
+2024-09-08 11:14:53,265 - UPS_POD_App - ERROR - Error retrieving POD for 1ZA5558W0447889651: 401 Client Error: Unauthorized for url: https://wwwcie.ups.com/track/v1/details/1ZA5558W0447889651
+2024-09-08 11:17:03,595 - UPS_POD_App - INFO - Successfully authenticated with UPS API
+2024-09-08 11:17:08,538 - UPS_POD_App - INFO - Successfully authenticated with UPS API
+2024-09-08 11:18:06,483 - UPS_POD_App - INFO - Successfully authenticated with UPS API
+2024-09-08 11:18:06,709 - UPS_POD_App - ERROR - Failed to retrieve POD data: 401 Client Error: Unauthorized for url: https://wwwcie.ups.com/track/v1/details/1ZA5558W04478896511
+2024-09-08 11:18:06,709 - UPS_POD_App - ERROR - Error retrieving POD for 1ZA5558W04478896511: 401 Client Error: Unauthorized for url: https://wwwcie.ups.com/track/v1/details/1ZA5558W04478896511
+2024-09-08 11:19:35,582 - UPS_POD_App - INFO - Successfully authenticated with UPS API
+2024-09-08 11:20:44,840 - UPS_POD_App - INFO - Successfully authenticated with UPS API
+2024-09-08 11:20:50,778 - UPS_POD_App - INFO - Successfully authenticated with UPS API
+2024-09-08 11:20:58,014 - UPS_POD_App - INFO - Successfully authenticated with UPS API
+2024-09-08 11:21:05,149 - UPS_POD_App - INFO - Successfully authenticated with UPS API
+2024-09-08 11:21:10,879 - UPS_POD_App - INFO - Successfully authenticated with UPS API
